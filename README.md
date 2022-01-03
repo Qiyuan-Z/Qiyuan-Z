@@ -1,6 +1,6 @@
 🐧 A Student
 
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=TimeNewRoman&color=%23F747BB&size=100&center=true&vCenter=true&width=400&height=100&lines=Hello!"/>
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=TimeNewRoman&color=%23F747BB&size=100&center=true&vCenter=true&width=450&height=100&lines=Hello!"/>
 
 - 💻 Object Detection & Development
 
@@ -8,7 +8,7 @@
 
 - 💬 Blog: [Yuan](https://qiyuan-z.github.io/)
 
-- 🧠 Leaning:
+- 🧠 Learning:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qiyuan-Z&show_icons=true&theme=buefy">
 
