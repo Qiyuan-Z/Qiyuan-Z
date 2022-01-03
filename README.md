@@ -1,6 +1,6 @@
 🐧 A Student
 
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=TimeNewRoman&color=%23F747BB&size=100&center=true&vCenter=true&width=500&height=100&lines=Hello!"/>
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=TimeNewRoman&color=%23F747BB&size=100&center=true&vCenter=true&width=400&height=100&lines=Hello!"/>
 
 - 💻 Object Detection & Development
 
